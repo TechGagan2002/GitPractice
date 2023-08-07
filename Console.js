@@ -42,3 +42,7 @@ const func10 = (a,b) => {
     return a+b;
 }
 console.log(func(3,4));
+const func11 = (a,b) => {
+    return a+b;
+}
+console.log(func(3,4));
