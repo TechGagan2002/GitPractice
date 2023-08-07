@@ -18,3 +18,7 @@ const func4 = (a,b) => {
     return a+b;
 }
 console.log(func(3,4));
+const func5 = (a,b) => {
+    return a+b;
+}
+console.log(func(3,4));
